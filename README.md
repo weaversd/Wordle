@@ -11,7 +11,7 @@ Example: `play(letters = 6, guesses = 7)`
 The default is 5 letters, 6 guesses.
 
 ## Gameplay:
-Your guesses must be lowercase, contain only letters, be the correct number of letters, and be on the master word list (which is pretty much every English word).  
+Your guesses must be lowercase, contain only letters, be the correct number of letters, and be on the master word list (which is pretty much every English word... although I haven't really tested it).  
 If a letter is in the correct position, it will be capitalized and surrounded by brackets: `{E}`  
 If a letter is in the word, but not in the correct position, it will be capitalized with an asterisk: ` E*`
 
