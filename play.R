@@ -1,4 +1,4 @@
-working_directory <- "~/Personal_projects/Wordle/"
+working_directory <- "~/Personal_projects/wordle_R/Wordle"
 setwd(working_directory)
 
 #libraries
