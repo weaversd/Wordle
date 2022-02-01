@@ -2,8 +2,8 @@
 My own little version of wordle in R
 
 ## To play:
-* Open 'Functions.R' and edit `working_directory` to be the path to this directory.
-* Highlight and run 'Functions.R'
+* Open 'play.R' and edit `working_directory` to be the path to this directory.
+* Highlight and run 'play.R'
 * Run `play()` in the console
 
 Currently, you can set the number of allowed guesses to any integer, and the number of letters in the unknown word to any integer between 3 and 7.  
