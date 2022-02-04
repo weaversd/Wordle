@@ -16,7 +16,7 @@ play <- function(letters = 5, guesses = 6) {
                    "fives.csv", "sixes.csv", "sevens.csv")
   
   if (letters < 3 | letters > 7) {
-    stop("choose # letters betweeen 3 and 7")
+    stop("choose # letters between 3 and 7")
   } else {
     words <- read.csv(word_vector[letters])
   }
